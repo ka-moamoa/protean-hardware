@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TS881ILT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "TS881ILT" (!) = "", "SOT95P280X145-5N", "SOT23 (5-Pin)", "511-TS881ILT", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TS881ILT?qs=Rlwi1sSxVL69UoZX6A67GA%3D%3D", "STMicroelectronics TS881ILT Comparator, Push-Pull O/P, 160ns 0.85  5.5 V 5-Pin SOT-23", "http://www.st.com/resource/en/datasheet/DM00057901.pdf", "1.45 mm"
+END_PART
+
+END.

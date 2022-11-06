@@ -1,0 +1,5 @@
+The firmware module is rom_ram_7024_2_2_IRcal_dragon_filter_visu.dat file
+
+Refer to the IR Cal Application note AN-1315 for details on using this firmware download. 
+
+The ADF7024 Evaluation GUI can also be used to download this firmware module.

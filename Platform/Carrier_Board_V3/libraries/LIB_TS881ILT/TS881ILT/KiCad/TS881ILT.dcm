@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS881ILT
+D STMicroelectronics TS881ILT Comparator, Push-Pull O/P, 160ns 0.85  5.5 V 5-Pin SOT-23
+K
+F http://www.st.com/resource/en/datasheet/DM00057901.pdf
+$ENDCMP
+#
+#End Doc Library

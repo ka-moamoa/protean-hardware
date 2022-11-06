@@ -1,0 +1,35 @@
+************************************************************************************************************************
+Revision	: 1.1.0
+Date		: Jan 2015
+Description	: Documentation update
+
+Changes since Last Revision:
+- Updated App notes from prelim to Rev0 release version 
+- Added radiated emissions pre-compliance test reports for EVAL-ADF7024DBZ2
+- Added ADF7024 Introduction ppt
+
+*************************************************************************************************************************
+
+
+************************************************************************************************************************
+Revision	: 1.0.1
+Date		: Aug 2014
+Description	: Installer update
+
+Changes since Last Revision:
+- Updated installer to add post-installation pop-up window
+
+*************************************************************************************************************************
+
+
+************************************************************************************************************************
+Revision	: 1.0.0
+Date		: July 2014
+Description	: Initial release.
+
+Changes since Last Revision:
+- none
+
+*************************************************************************************************************************
+
+

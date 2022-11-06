@@ -1,0 +1,16 @@
+Source PCB Design PCB4.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[PCB4.GTP]
+   Generated File[PCB4.GM4]
+   Generated File[PCB4.RUL]
+   Generated File[PCB4.EXTREP]
+   Generated File[PCB4.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 1:04:36 PM On 1/18/2022

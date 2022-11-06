@@ -1,0 +1,117 @@
+Board Information Report
+Filename     : C:\Users\Rishabh Goel\Desktop\Research\Supersensor\Hardware\Peripherals\Camera_reg_pannel\PCB4.PcbDoc
+Date         : 11/29/2021
+Time         : 12:56:20 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 6000milsx6210mils
+    Components on board, 0
+count : 2
+
+Routing Information
+    Routing completion, NAN%
+    Connections, 0
+    Connections routed, 0
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 16, 2, 0, 0, 0
+    Route Tool Path, 152, 0, 0, 140, 0, 0, 0, 0
+    Multi-Layer, 0, 0, 192, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 192
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 0, 0, 0%
+    Bottom Layer, 0, 0, 0%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    30mils, 0, 192
+count : 1
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0mils, 192
+count : 1
+
+Mid Layer Annular Ring Size, Count
+    0mils, 192
+count : 1
+
+Bottom Layer Annular Ring Size, Count
+    0mils, 192
+count : 1
+
+Pad Solder Mask, Count
+count : 0
+
+Via Solder Mask, Count
+    0mils, 192
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 192
+count : 1
+
+Track Width, Count
+    5mils, 12
+    10mils, 8
+    100mils, 136
+count : 3
+
+Arc Line Width, Count
+    100mils, 152
+count : 1
+
+Arc Radius, Count
+    50.001mils, 142
+    144.571mils, 10
+count : 2
+
+Arc Degrees, Count
+    1, 2
+    2, 12
+    3, 2
+    90, 130
+    91, 4
+    92, 2
+count : 6
+
+Text Height, Count
+    60mils, 2
+count : 1
+
+Text Width, Count
+    6mils, 2
+count : 1

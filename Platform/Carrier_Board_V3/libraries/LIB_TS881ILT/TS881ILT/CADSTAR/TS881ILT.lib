@@ -1,0 +1,16 @@
+.TS881ILT :1 ;STMicroelectronics TS881ILT Comparator, Push-Pull O/P, 160ns 0.85  5.5 V 5-Pin SOT-23
+SOT95P280X145-5N
+*STM IC
+*NGS
+*PLB 1="OUT" 2="VCC-" 3="IN+" 4="IN-" 5="VCC+"
+*MXP 5
+*DFN TS881ILT
+~!Mouser Part Number (511-TS881ILT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/TS881ILT?qs=Rlwi1sSxVL69UoZX6A67GA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (TS881ILT)
+~!Link Datasheet (http://www.st.com/resource/en/datasheet/DM00057901.pdf)
+~!Height (1.45mm)
+~!3D_Model (TS881ILT)
+TS881ILT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

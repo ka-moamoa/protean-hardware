@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\rgroc\Desktop\Research\peripherals\breakout\Project Outputs for breakout\Pick Place for PCB3.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/08/21
+Time:       11:32
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"P1","Header 13X2","TopLayer","HDR2X13","1977.953","837.402","0","Header, 13-Pin, Dual row"
+"R3","0R","TopLayer","RESC1005X40X25NL05T10","1175.000","655.000","0",""
+"R2","0R","TopLayer","RESC1005X40X25NL05T10","1175.000","700.000","0",""
+"R1","0R","TopLayer","RESC1005X40X25NL05T10","1175.000","745.000","0",""
+"J4","2039560203","TopLayer","Molex_0_MFG","1023.622","787.402","270","20 Position Connector Plug, Outer Shroud Contacts Surface Mount Gold"
+"J3","2039560203","TopLayer","Molex_0_MFG","2913.386","787.402","90","20 Position Connector Plug, Outer Shroud Contacts Surface Mount Gold"
+"J2","2039550203","BottomLayer","2039550203","1021.654","787.402","270",""
+"J1","2039550203","BottomLayer","2039550203","2915.354","787.402","90",""

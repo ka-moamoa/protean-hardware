@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=TS881ILT
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2018-05-09 15:49:12
+Downloaded=2022-10-03 21:44:38
+3D=Y
